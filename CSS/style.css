@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(163, 236, 167)
+    background-color: rgb(163, 236, 167);
 }
 header{
     height: 220px;
@@ -12,6 +12,16 @@ header{
 .imagenes{
     border: 2px solid rgb(226, 171, 171);
     border-radius: 4px;
+}
+.button{
+    text-align: center;
+    border: 2 px;
+    border-radius: 4px;
+    border-color: rgb(221, 126, 142);
+    background-color: rgb(240, 162, 227);
+}
+#video{
+    text-align: center;
 }
 
 #main-container{
